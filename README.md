@@ -1,2 +1,2 @@
 # womam_shop
- UI de um app de vendas de pastas femininos
+UI of a women's briefcase sales app
